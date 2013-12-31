@@ -35,7 +35,7 @@ $ sudo ./run.sh
 Connect to serial-port.
 
 ```
-$ telnet localhost 5099
+$ telnet localhost 5098
 ```
 
 Login to box.
